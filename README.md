@@ -1,5 +1,5 @@
 # Protein2GeneTree
-Protein2GeneTree By giving a proteins trees and species tree, this program give as result a genes tree which may be differed of 
+Protein2GeneTree By giving a proteins trees and species tree, this program give as result a genes tree which may be differed of proteins tree
 ####Reconstructing protein and gene phylogenies by extending the framework of reconciliation (https://arxiv.org/abs/1610.09732)
 ####Esaie Kuitche, Manuel Lafond and Aïda Ouangraoua
 #####for running questions email us at Esaie.Kuitche.Kamela@USherbrooke.ca
