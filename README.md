@@ -42,8 +42,8 @@ statistic.csv
 ```
 ##Running Protein2GeneTree an example
 ```
-python init.py --genePathDirectory "/home/user/Document/gene/" --specieTree "/home/user/Document/tree/speciesTree.nw" --outfile "statictic.csv"
-or
-python init.py --genePathDirectory "/home/user/Document/gene/"
+- python init.py --genePathDirectory "/home/user/Document/gene/" --specieTree "/home/user/Document/tree/speciesTree.nw" --outfile "statictic.csv"
+or simply 
+- python init.py --genePathDirectory "/home/user/Document/gene/"
 if you choose to use Ensembl species tree release 87 (https://github.com/Ensembl/ensembl-compara/blob/release/87/scripts/pipeline/species_tree.ensembl.topology.nw)
 ```
