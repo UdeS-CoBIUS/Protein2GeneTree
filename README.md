@@ -42,5 +42,5 @@ statistic.csv
 ```
 ##Running Protein2GeneTree an example
 ```
-python init.py --genePathDirectory "/home/user/Document/gene/" -- specieTree "/home/user/Document/tree/speciesTree.nw" --outfile "statictic.csv"
+python init.py --genePathDirectory "/home/user/Document/gene/" --specieTree "/home/user/Document/tree/speciesTree.nw" --outfile "statictic.csv"
 ```
