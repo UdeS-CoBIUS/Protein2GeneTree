@@ -16,9 +16,9 @@ The program requires the following to be available
 init.py [-h] [-s SPECIETREE] [-g GENEPATHDIRECTORY] [-o OUTFILE]
 ```
 -h, --help show this help message and exit<br/>
--s, --specieTree `<SPECIETREE`> :  The species tree<br/>
--g, --genePathDirectory `<GENEPATHDIRECTORY`> : path to the directory which contains genes tree files<br/>
--o, --outfile `<OUTFILE`>: outPut filename
+-s, --specieTree \<SPECIETREE\> :  The species tree<br/>
+-g, --genePathDirectory \<GENEPATHDIRECTORY\> : path to the directory which contains genes tree files<br/>
+-o, --outfile \<OUTFILE\>: outPut filename
 
 ##Input files
 ###specieTree
