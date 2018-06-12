@@ -4,7 +4,7 @@
 ``init.py`` **module description**:
 This module has as input a tree of species in the format newick (if it is provided as parameter, otherwise the program will use the tree of species of Ensembl Compara release 87), a directory containing a set of files Each file of which corresponds to a gene tree and the name of the output file which will contain the statistics of the use of the program.
 It allows to format the data under structures easily manipulated by the rest of the program.
-.. moduleauthor:: Esaie KUITCHE, Manuel Lafong and Aida Ouangraoua
+.. moduleauthor:: Esaie KUITCHE, Manuel Lafond and Aida Ouangraoua
 Janvier 2017
 Université de Sherbrooke Canada
 Laboratoty CoBiUS
